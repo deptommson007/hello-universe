@@ -1,3 +1,3 @@
-# hello-universe
-this is my second project
+# hello-multiverse
+This is my second project
 here i am trying to learn git.
