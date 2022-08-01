@@ -1,3 +1,3 @@
 # hello-multiverse
-This is my second project
-here i am trying to learn git.
+This is my second project.
+Here I am trying to learn git.
